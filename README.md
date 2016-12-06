@@ -53,3 +53,4 @@ Docker的原生网络支持非常有限，且没有跨主机的集群网络方�
 
 ## 前端
 - fine-uploader 文件上传 https://github.com/FineUploader/fine-uploader
+- picker 滑动选择组件 http://ustbhuangyi.github.io/picker/
