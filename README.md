@@ -11,6 +11,8 @@ https://github.com/vhf/free-programming-books/blob/master/free-programming-books
 - Linux 内核揭密 https://github.com/MintCN/linux-insides-zh
 - 从零开始写分布式数据库 https://github.com/ngaut/builddatabase
 
+# 各种资料汇总
+- go,deep learning等等 https://github.com/ty4z2008/Qix
 
 
 ## 测试
