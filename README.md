@@ -3,6 +3,11 @@
 - 帮助构建命令行工具 https://github.com/urfave/cli
 - delve 用Go语言编写的Go调试器 https://github.com/derekparker/delve
 
+# 协议
+- tcp 优化 http://huoding.com/2013/11/21/299
+
+# 工具软件
+- Mitmproxy http抓包工具 https://mitmproxy.org/
 
 # 书
 - 免费书籍
@@ -55,5 +60,6 @@ Docker的原生网络支持非常有限，且没有跨主机的集群网络方�
 
 
 ## 前端
+- FileAPI 文件上传canvas裁剪压缩分片 https://github.com/mailru/FileAPI
 - fine-uploader 文件上传 https://github.com/FineUploader/fine-uploader
 - picker 滑动选择组件 http://ustbhuangyi.github.io/picker/
